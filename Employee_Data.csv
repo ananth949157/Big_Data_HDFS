@@ -1,0 +1,373 @@
+Year,SUNY Institution,Sector,All Employees Total ,All Employees Full-Time,All Employees Part-Time,Faculty Total, Faculty Full-Time,Faculty  Part-Time,Professional Employees Non-Faculty  Total,Professional Employees Non-Faculty  Full-Time,Professional Employees Non-Faculty  Part-Time,Other Employees Total,Other Employees Full-Time,Other Employees Part-Time
+2016,Adirondack Community College,Community Colleges,427,212,215,256,90,166,91,55,36,80,67,13
+2016,Broome Community College,Community Colleges,831,404,427,439,165,274,240,125,115,152,114,38
+2016,Cayuga County Community College,Community Colleges,362,161,201,172,42,130,118,74,44,72,45,27
+2016,Clinton Community College,Community Colleges,179,108,71,100,42,58,50,41,9,29,25,4
+2016,College of Tech & Ag at Cobleskill,Technology Colleges,505,383,122,175,104,71,187,140,47,143,139,4
+2016,College of Tech & Ag at Morrisville,Technology Colleges,610,450,160,232,140,92,199,152,47,179,158,21
+2016,College of Tech at Alfred,Technology Colleges,621,530,91,230,167,63,195,169,26,196,194,2
+2016,College of Tech at Canton,Technology Colleges,546,392,154,227,126,101,197,148,49,122,118,4
+2016,College of Tech at Delhi,Technology Colleges,543,411,132,242,146,96,139,119,20,162,146,16
+2016,College of Tech at Farmingdale,Technology Colleges,1394,683,711,759,228,531,361,221,140,274,234,40
+2016,Columbia-Greene Community College,Community Colleges,241,134,107,89,44,45,97,63,34,55,27,28
+2016,Cornell Statutory Colleges,Doctoral Institutions,4399,3407,992,1201,1112,89,2085,1239,846,1113,1056,57
+2016,Corning Community College,Community Colleges,418,225,193,220,84,136,93,72,21,105,69,36
+2016,Downstate Medical Center,Doctoral Institutions,3890,3550,340,693,526,167,2379,2223,156,818,801,17
+2016,Dutchess Community College,Community Colleges,914,358,556,554,128,426,212,122,90,148,108,40
+2016,Erie Community College,Community Colleges,1717,736,981,910,298,612,324,213,111,483,225,258
+2016,Fashion Institute of Technology,Community Colleges,1820,797,1023,1116,232,884,391,311,80,313,254,59
+2016,Finger Lakes Community College,Community Colleges,546,322,224,313,117,196,145,124,21,88,81,7
+2016,Fulton-Montgomery Community College,Community Colleges,286,157,129,118,54,64,124,59,65,44,44,0
+2016,Genesee Community College,Community Colleges,631,300,331,309,89,220,211,127,84,111,84,27
+2016,Herkimer County Community College,Community Colleges,320,186,134,128,63,65,101,50,51,91,73,18
+2016,Hudson Valley Community College,Community Colleges,1068,594,474,594,232,362,226,155,71,248,207,41
+2016,Jamestown Community College,Community Colleges,517,219,298,306,72,234,82,72,10,129,75,54
+2016,Jefferson Community College,Community Colleges,432,212,220,242,77,165,121,75,46,69,60,9
+2016,Mohawk Valley Community College,Community Colleges,803,417,386,350,132,218,309,160,149,144,125,19
+2016,Monroe Community College,Community Colleges,1611,876,735,754,295,459,450,311,139,407,270,137
+2016,Nassau Community College,Community Colleges,2406,1021,1385,1412,425,987,527,287,240,467,309,158
+2016,Niagara County Community College,Community Colleges,666,301,365,350,104,246,189,87,102,127,110,17
+2016,North Country Community College,Community Colleges,181,102,79,104,41,63,48,41,7,29,20,9
+2016,N.Y. State College of Ceramics,Doctoral Institutions,149,124,25,54,44,10,55,43,12,40,37,3
+2016,Onondaga Community College,Community Colleges,1289,616,673,615,180,435,454,267,187,220,169,51
+2016,Orange County Community College,Community Colleges,1227,428,799,410,149,261,526,153,373,291,126,165
+2016,Rockland Community College,Community Colleges,963,395,568,517,105,412,240,143,97,206,147,59
+2016,Schenectady County Community College,Community Colleges,492,197,295,219,59,160,176,78,98,97,60,37
+2016,State College of Optometry,Doctoral Institutions,351,271,80,128,65,63,130,115,15,93,91,2
+2016,S.U. College at Brockport,Comprehensive Colleges,1395,962,433,632,346,286,415,296,119,348,320,28
+2016,S.U. College at Buffalo,Comprehensive Colleges,1849,1239,610,829,381,448,596,450,146,424,408,16
+2016,S.U. College at Cortland,Comprehensive Colleges,1359,926,433,593,302,291,374,271,103,392,353,39
+2016,S.U. College at Fredonia,Comprehensive Colleges,965,671,294,443,257,186,277,193,84,245,221,24
+2016,S.U. College at Geneseo,Comprehensive Colleges,927,743,184,358,252,106,274,208,66,295,283,12
+2016,S.U. College at New Paltz,Comprehensive Colleges,1495,1038,457,678,372,306,451,318,133,366,348,18
+2016,S.U. College at Old Westbury,Comprehensive Colleges,706,465,241,355,160,195,210,166,44,141,139,2
+2016,S.U. College at Oneonta,Comprehensive Colleges,1151,882,269,476,286,190,356,285,71,319,311,8
+2016,S.U. College at Oswego,Comprehensive Colleges,1483,1094,389,601,366,235,443,299,144,439,429,10
+2016,S.U. College at Plattsburgh,Comprehensive Colleges,1100,811,289,435,276,159,347,236,111,318,299,19
+2016,S.U. College at Potsdam,Comprehensive Colleges,828,670,158,355,248,107,240,198,42,233,224,9
+2016,S.U. College at Purchase,Comprehensive Colleges,1102,646,456,468,174,294,373,229,144,261,243,18
+2016,Suffolk County Community College,Community Colleges,2727,1058,1669,1466,291,1175,783,390,393,478,377,101
+2016,Sullivan County Community College,Community Colleges,213,119,94,101,41,60,75,43,32,37,35,2
+2016,SUNY at Albany,Doctoral Institutions,3985,2361,1624,1156,670,486,2068,957,1111,761,734,27
+2016,SUNY at Binghamton,Doctoral Institutions,3627,2179,1448,1004,704,300,1658,691,967,965,784,181
+2016,SUNY at Buffalo,Doctoral Institutions,6749,4461,2288,2404,1646,758,3117,1670,1447,1228,1145,83
+2016,SUNY at Stony Brook,Doctoral Institutions,13333,10130,3203,2700,1872,828,8056,6012,2044,2577,2246,331
+2016,SUNY Coll/Env Sci & Forestry,Doctoral Institutions,602,368,234,164,121,43,302,128,174,136,119,17
+2016,SUNY Empire State College,Comprehensive Colleges,1518,635,883,1020,183,837,226,203,23,272,249,23
+2016,SUNY Maritime College,Technology Colleges,360,274,86,148,93,55,118,96,22,94,85,9
+2016,SUNY Polytechnic Institute,Doctoral Institutions,576,361,215,272,139,133,204,127,77,100,95,5
+2016,System Administration,SUNY System ,560,481,79,4,0,4,381,358,23,175,123,52
+2016,Tompkins-Cortland Community College,Community Colleges,435,239,196,251,62,189,94,90,4,90,87,3
+2016,Ulster County Community College,Community Colleges,329,173,156,170,75,95,78,51,27,81,47,34
+2016,Upstate Medical Center,Doctoral Institutions,7012,5564,1448,637,417,220,4865,3922,943,1510,1225,285
+2016,Westchester Community College,Community Colleges,1395,531,864,995,174,821,270,231,39,130,126,4
+2015,Adirondack Community College,Community Colleges,421,211,210,261,88,173,93,59,34,67,64,3
+2015,Broome Community College,Community Colleges,796,399,397,432,166,266,209,118,91,155,115,40
+2015,Cayuga County Community College,Community Colleges,419,145,274,239,53,186,101,55,46,79,37,42
+2015,Clinton Community College,Community Colleges,185,114,71,104,48,56,54,42,12,27,24,3
+2015,College of Tech & Ag at Cobleskill,Technology Colleges,524,387,137,181,104,77,194,139,55,149,144,5
+2015,College of Tech & Ag at Morrisville,Technology Colleges,591,440,151,237,144,93,182,140,42,172,156,16
+2015,College of Tech at Alfred,Technology Colleges,611,522,89,225,172,53,185,151,34,201,199,2
+2015,College of Tech at Canton,Technology Colleges,552,396,156,227,129,98,199,145,54,126,122,4
+2015,College of Tech at Delhi,Technology Colleges,540,396,144,245,149,96,137,113,24,158,134,24
+2015,College of Tech at Farmingdale,Technology Colleges,1375,665,710,746,220,526,353,219,134,276,226,50
+2015,Columbia-Greene Community College,Community Colleges,251,135,116,97,44,53,80,52,28,74,39,35
+2015,Cornell Statutory Colleges,Doctoral Institutions,4387,3398,989,1236,1126,110,2051,1231,820,1100,1041,59
+2015,Corning Community College,Community Colleges,456,258,198,229,89,140,107,84,23,120,85,35
+2015,Downstate Medical Center,Doctoral Institutions,3850,3522,328,664,503,161,2332,2184,148,854,835,19
+2015,Dutchess Community College,Community Colleges,926,342,584,590,127,463,190,111,79,146,104,42
+2015,Erie Community College,Community Colleges,1807,784,1023,939,324,615,355,226,129,513,234,279
+2015,Fashion Institute of Technology,Community Colleges,1659,778,881,967,229,738,369,289,80,323,260,63
+2015,Finger Lakes Community College,Community Colleges,579,330,249,341,119,222,144,123,21,94,88,6
+2015,Fulton-Montgomery Community College,Community Colleges,292,159,133,120,54,66,122,55,67,50,50,0
+2015,Genesee Community College,Community Colleges,676,297,379,347,89,258,213,122,91,116,86,30
+2015,Herkimer County Community College,Community Colleges,315,191,124,135,64,71,85,54,31,95,73,22
+2015,Hudson Valley Community College,Community Colleges,1098,596,502,613,229,384,232,159,73,253,208,45
+2015,Jamestown Community College,Community Colleges,545,233,312,316,75,241,92,76,16,137,82,55
+2015,Jefferson Community College,Community Colleges,446,215,231,251,80,171,126,77,49,69,58,11
+2015,Mohawk Valley Community College,Community Colleges,826,423,403,348,140,208,318,159,159,160,124,36
+2015,Monroe Community College,Community Colleges,1691,899,792,802,307,495,454,310,144,435,282,153
+2015,Nassau Community College,Community Colleges,2452,1084,1368,1474,473,1001,523,287,236,455,324,131
+2015,Niagara County Community College,Community Colleges,687,305,382,388,104,284,171,91,80,128,110,18
+2015,North Country Community College,Community Colleges,181,94,87,109,40,69,39,34,5,33,20,13
+2015,N.Y. State College of Ceramics,Doctoral Institutions,141,128,13,52,45,7,50,44,6,39,39,0
+2015,Onondaga Community College,Community Colleges,1342,619,723,650,186,464,441,248,193,251,185,66
+2015,Orange County Community College,Community Colleges,1226,425,801,437,153,284,510,147,363,279,125,154
+2015,Rockland Community College,Community Colleges,948,393,555,511,110,401,246,135,111,191,148,43
+2015,Schenectady County Community College,Community Colleges,561,204,357,283,72,211,170,69,101,108,63,45
+2015,State College of Optometry,Doctoral Institutions,348,260,88,129,61,68,122,106,16,97,93,4
+2015,S.U. College at Brockport,Comprehensive Colleges,1422,976,446,642,350,292,421,288,133,359,338,21
+2015,S.U. College at Buffalo,Comprehensive Colleges,1857,1226,631,849,383,466,576,430,146,432,413,19
+2015,S.U. College at Cortland,Comprehensive Colleges,1332,926,406,568,298,270,369,268,101,395,360,35
+2015,S.U. College at Fredonia,Comprehensive Colleges,982,674,308,452,251,201,282,193,89,248,230,18
+2015,S.U. College at Geneseo,Comprehensive Colleges,910,739,171,350,252,98,265,203,62,295,284,11
+2015,S.U. College at New Paltz,Comprehensive Colleges,1481,1021,460,664,360,304,443,309,134,374,352,22
+2015,S.U. College at Old Westbury,Comprehensive Colleges,695,465,230,345,161,184,208,165,43,142,139,3
+2015,S.U. College at Oneonta,Comprehensive Colleges,1148,877,271,466,281,185,356,279,77,326,317,9
+2015,S.U. College at Oswego,Comprehensive Colleges,1478,1078,400,615,359,256,419,282,137,444,437,7
+2015,S.U. College at Plattsburgh,Comprehensive Colleges,1114,816,298,451,283,168,345,230,115,318,303,15
+2015,S.U. College at Potsdam,Comprehensive Colleges,825,667,158,347,237,110,233,197,36,245,233,12
+2015,S.U. College at Purchase,Comprehensive Colleges,1079,643,436,442,177,265,373,218,155,264,248,16
+2015,Suffolk County Community College,Community Colleges,2738,1060,1678,1557,320,1237,711,363,348,470,377,93
+2015,Sullivan County Community College,Community Colleges,220,136,84,100,47,53,83,52,31,37,37,0
+2015,SUNY at Albany,Doctoral Institutions,3924,2285,1639,1106,640,466,2024,897,1127,794,748,46
+2015,SUNY at Binghamton,Doctoral Institutions,3520,2104,1416,970,665,305,1573,617,956,977,822,155
+2015,SUNY at Buffalo,Doctoral Institutions,6730,4428,2302,2452,1645,807,3016,1607,1409,1262,1176,86
+2015,SUNY at Stony Brook,Doctoral Institutions,12803,9698,3105,2622,1819,803,7662,5675,1987,2519,2204,315
+2015,SUNY Coll/Env Sci & Forestry,Doctoral Institutions,584,353,231,168,124,44,279,111,168,137,118,19
+2015,SUNY Empire State College,Comprehensive Colleges,1604,664,940,1066,183,883,235,210,25,303,271,32
+2015,SUNY Maritime College,Technology Colleges,360,265,95,148,87,61,119,91,28,93,87,6
+2015,SUNY Polytechnic Institute,Doctoral Institutions,598,362,236,277,137,140,207,116,91,114,109,5
+2015,System Administration,SUNY System ,536,457,79,4,0,4,369,345,24,163,112,51
+2015,Tompkins-Cortland Community College,Community Colleges,461,239,222,278,61,217,94,92,2,89,86,3
+2015,Ulster County Community College,Community Colleges,362,173,189,209,80,129,70,47,23,83,46,37
+2015,Upstate Medical Center,Doctoral Institutions,6718,5380,1338,603,399,204,4625,3749,876,1490,1232,258
+2015,Westchester Community College,Community Colleges,1416,525,891,1016,181,835,276,224,52,124,120,4
+2014,Adirondack Community College,Community Colleges,449,223,226,272,92,180,101,64,37,76,67,9
+2014,Broome Community College,Community Colleges,790,398,392,436,162,274,199,120,79,155,116,39
+2014,Cayuga County Community College,Community Colleges,441,168,273,236,50,186,119,73,46,86,45,41
+2014,Clinton Community College,Community Colleges,211,122,89,116,50,66,63,47,16,32,25,7
+2014,College of Tech & Ag at Cobleskill,Technology Colleges,531,382,149,189,100,89,186,131,55,156,151,5
+2014,College of Tech & Ag at Morrisville,Technology Colleges,604,444,160,244,144,100,181,135,46,179,165,14
+2014,College of Tech at Alfred,Technology Colleges,609,519,90,229,167,62,173,147,26,207,205,2
+2014,College of Tech at Canton,Technology Colleges,535,387,148,225,125,100,184,139,45,126,123,3
+2014,College of Tech at Delhi,Technology Colleges,546,383,163,248,138,110,138,108,30,160,137,23
+2014,College of Tech at Farmingdale,Technology Colleges,1319,634,685,709,217,492,343,205,138,267,212,55
+2014,Columbia-Greene Community College,Community Colleges,276,142,134,117,47,70,84,53,31,75,42,33
+2014,Cornell Statutory Colleges,Doctoral Institutions,4389,3385,1004,1247,1139,108,2063,1227,836,1079,1019,60
+2014,Corning Community College,Community Colleges,489,272,217,246,87,159,83,83,0,160,102,58
+2014,Downstate Medical Center,Doctoral Institutions,3952,3621,331,670,513,157,2389,2236,153,893,872,21
+2014,Dutchess Community College,Community Colleges,945,330,615,604,125,479,187,104,83,154,101,53
+2014,Erie Community College,Community Colleges,1663,778,885,828,326,502,336,232,104,499,220,279
+2014,Fashion Institute of Technology,Community Colleges,1673,785,888,970,232,738,369,287,82,334,266,68
+2014,Finger Lakes Community College,Community Colleges,610,320,290,379,116,263,139,120,19,92,84,8
+2014,Fulton-Montgomery Community College,Community Colleges,359,161,198,128,57,71,181,54,127,50,50,0
+2014,Genesee Community College,Community Colleges,679,295,384,348,90,258,214,118,96,117,87,30
+2014,Herkimer County Community College,Community Colleges,334,203,131,163,68,95,78,78,0,93,57,36
+2014,Hudson Valley Community College,Community Colleges,1093,591,502,610,226,384,232,159,73,251,206,45
+2014,Jamestown Community College,Community Colleges,571,233,338,351,78,273,101,81,20,119,74,45
+2014,Jefferson Community College,Community Colleges,427,221,206,245,83,162,114,79,35,68,59,9
+2014,Mohawk Valley Community College,Community Colleges,878,446,432,404,145,259,320,170,150,154,131,23
+2014,Monroe Community College,Community Colleges,1805,924,881,882,315,567,467,314,153,456,295,161
+2014,Nassau Community College,Community Colleges,2588,1112,1476,1591,497,1094,537,294,243,460,321,139
+2014,Niagara County Community College,Community Colleges,712,311,401,414,110,304,175,92,83,123,109,14
+2014,North Country Community College,Community Colleges,154,92,62,102,40,62,36,36,0,16,16,0
+2014,N.Y. State College of Ceramics,Doctoral Institutions,146,132,14,55,47,8,52,46,6,39,39,0
+2014,Onondaga Community College,Community Colleges,1291,603,688,645,177,468,416,244,172,230,182,48
+2014,Orange County Community College,Community Colleges,1267,461,806,467,177,290,447,126,321,353,158,195
+2014,Rockland Community College,Community Colleges,940,402,538,493,115,378,245,140,105,202,147,55
+2014,Schenectady County Community College,Community Colleges,610,230,380,320,74,246,216,96,120,74,60,14
+2014,State College of Optometry,Doctoral Institutions,350,264,86,122,57,65,130,113,17,98,94,4
+2014,S.U. College at Brockport,Comprehensive Colleges,1396,970,426,628,346,282,406,287,119,362,337,25
+2014,S.U. College at Buffalo,Comprehensive Colleges,1868,1226,642,840,387,453,582,421,161,446,418,28
+2014,S.U. College at Cortland,Comprehensive Colleges,1345,917,428,592,294,298,359,261,98,394,362,32
+2014,S.U. College at Fredonia,Comprehensive Colleges,1009,686,323,468,256,212,283,196,87,258,234,24
+2014,S.U. College at Geneseo,Comprehensive Colleges,925,743,182,347,253,94,272,196,76,306,294,12
+2014,S.U. College at New Paltz,Comprehensive Colleges,1460,999,461,667,357,310,423,297,126,370,345,25
+2014,S.U. College at Old Westbury,Comprehensive Colleges,676,445,231,337,151,186,200,157,43,139,137,2
+2014,S.U. College at Oneonta,Comprehensive Colleges,1144,856,288,470,273,197,346,268,78,328,315,13
+2014,S.U. College at Oswego,Comprehensive Colleges,1448,1058,390,605,348,257,402,274,128,441,436,5
+2014,S.U. College at Plattsburgh,Comprehensive Colleges,1112,806,306,484,286,198,316,223,93,312,297,15
+2014,S.U. College at Potsdam,Comprehensive Colleges,856,699,157,351,246,105,248,209,39,257,244,13
+2014,S.U. College at Purchase,Comprehensive Colleges,1075,634,441,470,173,297,339,208,131,266,253,13
+2014,Suffolk County Community College,Community Colleges,2801,1025,1776,1623,320,1303,715,336,379,463,369,94
+2014,Sullivan County Community College,Community Colleges,222,134,88,104,48,56,81,52,29,37,34,3
+2014,SUNY at Albany,Doctoral Institutions,3796,2226,1570,1081,613,468,1905,859,1046,810,754,56
+2014,SUNY at Binghamton,Doctoral Institutions,3402,2045,1357,930,640,290,1524,616,908,948,789,159
+2014,SUNY at Buffalo,Doctoral Institutions,6677,4409,2268,2417,1628,789,2955,1557,1398,1305,1224,81
+2014,SUNY at Stony Brook,Doctoral Institutions,12065,9233,2832,2602,1803,799,7033,5212,1821,2430,2218,212
+2014,SUNY Coll/Env Sci & Forestry,Doctoral Institutions,590,354,236,167,123,44,289,117,172,134,114,20
+2014,SUNY Empire State College,Comprehensive Colleges,1663,679,984,1109,191,918,234,202,32,320,286,34
+2014,SUNY Maritime College,Technology Colleges,356,268,88,143,89,54,118,93,25,95,86,9
+2014,SUNY Polytechnic Institute,Doctoral Institutions,561,335,226,246,126,120,215,115,100,100,94,6
+2014,System Administration,SUNY System ,542,462,80,6,0,6,368,346,22,168,116,52
+2014,Tompkins-Cortland Community College,Community Colleges,530,244,286,342,62,280,93,91,2,95,91,4
+2014,Ulster County Community College,Community Colleges,391,190,201,212,81,131,82,56,26,97,53,44
+2014,Upstate Medical Center,Doctoral Institutions,6501,5207,1294,608,403,205,4412,3563,849,1481,1241,240
+2014,Westchester Community College,Community Colleges,1594,540,1054,1175,178,997,289,236,53,130,126,4
+2013,Adirondack Community College,Community Colleges,461,211,250,291,92,199,88,60,28,82,59,23
+2013,Broome Community College,Community Colleges,763,397,366,430,164,266,184,118,66,149,115,34
+2013,Cayuga County Community College,Community Colleges,449,167,282,228,51,177,133,70,63,88,46,42
+2013,Clinton Community College,Community Colleges,203,125,78,118,51,67,55,50,5,30,24,6
+2013,College of Tech & Ag at Cobleskill,Technology Colleges,516,381,135,191,99,92,171,135,36,154,147,7
+2013,College of Tech & Ag at Morrisville,Technology Colleges,611,437,174,243,146,97,178,129,49,190,162,28
+2013,College of Tech at Alfred,Technology Colleges,602,509,93,229,168,61,166,137,29,207,204,3
+2013,College of Tech at Canton,Technology Colleges,548,392,156,228,131,97,195,140,55,125,121,4
+2013,College of Tech at Delhi,Technology Colleges,534,377,157,233,136,97,141,106,35,160,135,25
+2013,College of Tech at Farmingdale,Technology Colleges,1256,608,648,689,214,475,311,189,122,256,205,51
+2013,Columbia-Greene Community College,Community Colleges,281,140,141,117,44,73,87,57,30,77,39,38
+2013,Cornell Statutory Colleges,Doctoral Institutions,4437,3398,1039,1277,1155,122,2095,1239,856,1065,1004,61
+2013,Corning Community College,Community Colleges,529,276,253,236,89,147,62,62,0,231,125,106
+2013,Downstate Medical Center,Doctoral Institutions,4287,3859,428,797,548,249,2549,2389,160,941,922,19
+2013,Dutchess Community College,Community Colleges,966,337,629,623,128,495,190,107,83,153,102,51
+2013,Erie Community College,Community Colleges,1681,765,916,848,324,524,350,223,127,483,218,265
+2013,Fashion Institute of Technology,Community Colleges,1625,769,856,944,240,704,361,281,80,320,248,72
+2013,Finger Lakes Community College,Community Colleges,628,316,312,398,116,282,135,114,21,95,86,9
+2013,Fulton-Montgomery Community College,Community Colleges,351,166,185,135,58,77,163,57,106,53,51,2
+2013,Genesee Community College,Community Colleges,680,305,375,350,91,259,210,123,87,120,91,29
+2013,Herkimer County Community College,Community Colleges,320,189,131,154,66,88,84,55,29,82,68,14
+2013,Hudson Valley Community College,Community Colleges,1106,608,498,609,236,373,286,189,97,211,183,28
+2013,Jamestown Community College,Community Colleges,573,241,332,341,77,264,103,84,19,129,80,49
+2013,Jefferson Community College,Community Colleges,430,217,213,246,80,166,116,78,38,68,59,9
+2013,Mohawk Valley Community College,Community Colleges,867,433,434,415,142,273,295,163,132,157,128,29
+2013,Monroe Community College,Community Colleges,1831,926,905,910,320,590,449,314,135,472,292,180
+2013,Nassau Community College,Community Colleges,2737,1127,1610,1586,489,1097,633,291,342,518,347,171
+2013,Niagara County Community College,Community Colleges,712,308,404,396,109,287,192,90,102,124,109,15
+2013,North Country Community College,Community Colleges,158,93,65,99,41,58,38,31,7,21,21,0
+2013,N.Y. State College of Ceramics,Doctoral Institutions,144,127,17,55,49,6,53,43,10,36,35,1
+2013,Onondaga Community College,Community Colleges,1525,627,898,716,184,532,507,249,258,302,194,108
+2013,Orange County Community College,Community Colleges,1183,422,761,449,152,297,396,119,277,338,151,187
+2013,Rockland Community College,Community Colleges,989,402,587,528,116,412,253,140,113,208,146,62
+2013,Schenectady County Community College,Community Colleges,564,207,357,293,68,225,201,88,113,70,51,19
+2013,State College of Optometry,Doctoral Institutions,343,263,80,120,61,59,122,106,16,101,96,5
+2013,S.U. College at Brockport,Comprehensive Colleges,1396,979,417,619,352,267,401,279,122,376,348,28
+2013,S.U. College at Buffalo,Comprehensive Colleges,1860,1260,600,842,416,426,585,430,155,433,414,19
+2013,S.U. College at Cortland,Comprehensive Colleges,1342,921,421,584,295,289,362,259,103,396,367,29
+2013,S.U. College at Fredonia,Comprehensive Colleges,1049,697,352,502,259,243,282,194,88,265,244,21
+2013,S.U. College at Geneseo,Comprehensive Colleges,925,734,191,352,253,99,266,186,80,307,295,12
+2013,S.U. College at New Paltz,Comprehensive Colleges,1426,977,449,649,347,302,406,280,126,371,350,21
+2013,S.U. College at Old Westbury,Comprehensive Colleges,665,450,215,322,150,172,201,160,41,142,140,2
+2013,S.U. College at Oneonta,Comprehensive Colleges,1142,858,284,468,277,191,345,262,83,329,319,10
+2013,S.U. College at Oswego,Comprehensive Colleges,1420,1040,380,590,344,246,388,261,127,442,435,7
+2013,S.U. College at Plattsburgh,Comprehensive Colleges,1125,798,327,495,275,220,307,219,88,323,304,19
+2013,S.U. College at Potsdam,Comprehensive Colleges,884,723,161,367,261,106,257,216,41,260,246,14
+2013,S.U. College at Purchase,Comprehensive Colleges,1026,615,411,428,169,259,338,207,131,260,239,21
+2013,Suffolk County Community College,Community Colleges,2486,1047,1439,1646,314,1332,381,364,17,459,369,90
+2013,Sullivan County Community College,Community Colleges,221,138,83,104,49,55,78,53,25,39,36,3
+2013,SUNY at Albany,Doctoral Institutions,3688,2209,1479,1109,617,492,1757,834,923,822,758,64
+2013,SUNY at Binghamton,Doctoral Institutions,3281,1972,1309,897,624,273,1406,531,875,978,817,161
+2013,SUNY at Buffalo,Doctoral Institutions,6639,4377,2262,2389,1610,779,2922,1540,1382,1328,1227,101
+2013,SUNY at Stony Brook,Doctoral Institutions,11760,9051,2709,2471,1705,766,6827,5099,1728,2247,2247,215
+2013,SUNY Coll/Env Sci & Forestry,Doctoral Institutions,600,367,233,163,122,41,289,118,171,148,127,21
+2013,SUNY Empire State College,Comprehensive Colleges,1722,706,1016,1153,203,950,224,200,24,345,303,42
+2013,SUNY Inst of Tech at Utica/Rome,Technology Colleges,441,264,177,192,80,112,149,89,60,100,95,5
+2013,SUNY Maritime College,Technology Colleges,349,262,87,135,85,50,123,98,25,91,79,12
+2013,System Administration,SUNY System,568,489,79,5,0,5,390,369,21,173,120,53
+2013,Tompkins-Cortland Community College,Community Colleges,540,250,290,349,69,280,93,89,4,98,92,6
+2013,Ulster County Community College,Community Colleges,401,183,218,228,75,153,74,51,23,99,57,42
+2013,Upstate Medical Center,Doctoral Institutions,6384,5059,1325,619,402,217,4283,3431,852,1482,1226,256
+2013,Westchester Community College,Community Colleges,1511,531,980,1091,165,926,292,242,50,128,124,4
+2012,Adirondack Community College,Community Colleges,428,210,218,276,92,184,77,55,22,75,63,12
+2012,Broome Community College,Community Colleges,758,396,362,427,168,259,190,117,73,141,111,30
+2012,Cayuga County Community College,Community Colleges,469,184,285,257,55,202,104,85,19,108,44,64
+2012,Clinton Community College,Community Colleges,231,133,98,146,57,89,53,51,2,32,25,7
+2012,College of Tech & Ag at Cobleskill,Technology Colleges,467,369,98,162,99,63,150,121,29,155,149,6
+2012,College of Tech & Ag at Morrisville,Technology Colleges,590,422,168,236,140,96,165,116,49,189,166,23
+2012,College of Tech at Alfred,Technology Colleges,598,516,82,221,168,53,168,141,27,209,207,2
+2012,College of Tech at Canton,Technology Colleges,531,368,163,216,125,91,194,130,64,121,113,8
+2012,College of Tech at Delhi,Technology Colleges,524,364,160,224,128,96,138,104,34,162,132,30
+2012,College of Tech at Farmingdale,Technology Colleges,1157,585,572,639,215,424,264,168,96,254,202,52
+2012,Columbia-Greene Community College,Community Colleges,287,144,143,119,45,74,88,58,30,80,41,39
+2012,Cornell Statutory Colleges,Doctoral Institutions,4551,3466,1085,1361,1235,126,2103,1211,892,1087,1020,67
+2012,Corning Community College,Community Colleges,539,287,252,269,92,177,106,105,1,164,90,74
+2012,Downstate Medical Center,Doctoral Institutions,4837,4355,482,931,657,274,2890,2707,183,1016,991,25
+2012,Dutchess Community College,Community Colleges,956,339,617,570,128,442,225,114,111,161,97,64
+2012,Erie Community College,Community Colleges,1705,757,948,878,323,555,344,218,126,483,216,267
+2012,Fashion Institute of Technology,Community Colleges,1667,776,891,943,236,707,387,295,92,337,245,92
+2012,Finger Lakes Community College,Community Colleges,616,319,297,383,118,265,136,113,23,97,88,9
+2012,Fulton-Montgomery Community College,Community Colleges,324,156,168,135,54,81,138,53,85,51,49,2
+2012,Genesee Community College,Community Colleges,694,305,389,368,87,281,205,126,79,121,92,29
+2012,Herkimer County Community College,Community Colleges,344,189,155,164,69,95,62,56,6,118,64,54
+2012,Hudson Valley Community College,Community Colleges,1157,591,566,669,224,445,283,187,96,205,180,25
+2012,Jamestown Community College,Community Colleges,588,230,358,370,76,294,98,81,17,120,73,47
+2012,Jefferson Community College,Community Colleges,441,219,222,260,79,181,100,73,27,81,67,14
+2012,Mohawk Valley Community College,Community Colleges,875,445,430,402,142,260,309,165,144,164,138,26
+2012,Monroe Community College,Community Colleges,1761,919,842,902,323,579,414,302,112,445,294,151
+2012,Nassau Community College,Community Colleges,2602,1132,1470,1562,496,1066,561,295,266,479,341,138
+2012,Niagara County Community College,Community Colleges,701,309,392,397,110,287,179,88,91,125,111,14
+2012,North Country Community College,Community Colleges,154,56,98,133,42,91,21,14,7,0,0,0
+2012,N.Y. State College of Ceramics,Doctoral Institutions,160,137,23,56,47,9,63,50,13,41,40,1
+2012,Onondaga Community College,Community Colleges,1403,632,771,673,181,492,521,260,261,209,191,18
+2012,Orange County Community College,Community Colleges,1116,429,687,442,158,284,354,120,234,320,151,169
+2012,Rockland Community College,Community Colleges,899,406,493,522,119,403,182,133,49,195,154,41
+2012,Schenectady County Community College,Community Colleges,535,203,332,263,60,203,195,91,104,77,52,25
+2012,State College of Optometry,Doctoral Institutions,362,263,99,139,61,78,122,104,18,101,98,3
+2012,S.U. College at Brockport,Comprehensive Colleges,1405,968,437,632,346,286,393,271,122,380,351,29
+2012,S.U. College at Buffalo,Comprehensive Colleges,1836,1221,615,843,413,430,574,414,160,419,394,25
+2012,S.U. College at Cortland,Comprehensive Colleges,1335,891,444,579,278,301,369,255,114,387,358,29
+2012,S.U. College at Fredonia,Comprehensive Colleges,1036,684,352,497,256,241,275,184,91,264,244,20
+2012,S.U. College at Geneseo,Comprehensive Colleges,912,728,184,354,255,99,252,183,69,306,290,16
+2012,S.U. College at New Paltz,Comprehensive Colleges,1399,945,454,651,337,314,387,268,119,361,340,21
+2012,S.U. College at Old Westbury,Comprehensive Colleges,641,431,210,317,145,172,184,150,34,140,136,4
+2012,S.U. College at Oneonta,Comprehensive Colleges,1142,839,303,473,259,214,336,256,80,333,324,9
+2012,S.U. College at Oswego,Comprehensive Colleges,1393,1020,373,575,325,250,362,247,115,456,448,8
+2012,S.U. College at Plattsburgh,Comprehensive Colleges,1092,779,313,485,274,211,290,209,81,317,296,21
+2012,S.U. College at Potsdam,Comprehensive Colleges,876,722,154,348,249,99,244,202,42,284,271,13
+2012,S.U. College at Purchase,Comprehensive Colleges,1019,594,425,421,160,261,336,189,147,262,245,17
+2012,Suffolk County Community College,Community Colleges,2444,1055,1389,1629,326,1303,371,355,16,444,374,70
+2012,Sullivan County Community College,Community Colleges,209,144,65,109,48,61,52,51,1,48,45,3
+2012,SUNY at Albany,Doctoral Institutions,3606,2133,1473,1104,595,509,1679,789,890,823,749,74
+2012,SUNY at Binghamton,Doctoral Institutions,3193,1932,1261,841,593,248,1383,524,859,969,815,154
+2012,SUNY at Buffalo,Doctoral Institutions,6537,4280,2257,2329,1537,792,2843,1489,1354,1365,1254,111
+2012,SUNY at Stony Brook,Doctoral Institutions,11489,8773,2716,2377,1631,746,6582,4856,1726,2530,2286,244
+2012,SUNY Coll/Env Sci & Forestry,Doctoral Institutions,581,354,227,156,121,35,283,109,174,142,124,18
+2012,SUNY Empire State College,Comprehensive Colleges,1759,708,1051,1181,206,975,216,189,27,362,313,49
+2012,SUNY Inst of Tech at Utica/Rome,Technology Colleges,412,254,158,186,76,110,129,86,43,97,92,5
+2012,SUNY Maritime College,Technology Colleges,337,269,68,137,104,33,111,88,23,89,77,12
+2012,System Administration,SUNY System,536,455,81,5,0,5,366,339,27,165,116,49
+2012,Tompkins-Cortland Community College,Community Colleges,509,250,259,317,68,249,92,88,4,100,94,6
+2012,Ulster County Community College,Community Colleges,473,189,284,291,65,226,60,51,9,122,73,49
+2012,Upstate Medical Center,Doctoral Institutions,6607,5159,1448,627,402,225,4389,3444,945,1591,1313,278
+2012,Westchester Community College,Community Colleges,1917,524,1393,1501,165,1336,278,225,53,138,134,4
+2011,Adirondack Community College,Community Colleges,415,202,213,276,89,187,70,54,16,69,59,10
+2011,Broome Community College,Community Colleges,776,402,374,457,170,287,118,97,21,201,135,66
+2011,Cayuga County Community College,Community Colleges,503,197,306,277,60,217,121,82,39,105,55,50
+2011,Clinton Community College,Community Colleges,302,136,166,179,53,126,40,37,3,83,46,37
+2011,College of Tech & Ag at Cobleskill,Technology Colleges,447,362,85,170,97,73,131,128,3,146,137,9
+2011,College of Tech & Ag at Morrisville,Technology Colleges,585,416,169,244,140,104,180,118,62,161,158,3
+2011,College of Tech at Alfred,Technology Colleges,589,521,68,217,179,38,162,144,18,210,198,12
+2011,College of Tech at Canton,Technology Colleges,513,339,174,206,116,90,141,117,24,166,106,60
+2011,College of Tech at Delhi,Technology Colleges,504,354,150,215,119,96,160,124,36,129,111,18
+2011,College of Tech at Farmingdale,Technology Colleges,1113,580,533,604,207,397,226,169,57,283,204,79
+2011,Columbia-Greene Community College,Community Colleges,292,144,148,135,49,86,40,36,4,117,59,58
+2011,Cornell Statutory Colleges,Doctoral Institutions,4543,3428,1115,1372,1254,118,1736,863,873,1435,1311,124
+2011,Corning Community College,Community Colleges,563,312,251,253,99,154,97,86,11,213,127,86
+2011,Downstate Medical Center,Doctoral Institutions,5099,4551,548,931,669,262,3055,2799,256,1113,1083,30
+2011,Dutchess Community College,Community Colleges,833,351,482,491,135,356,105,68,37,237,148,89
+2011,Erie Community College,Community Colleges,1747,763,984,946,327,619,270,192,78,531,244,287
+2011,Fashion Institute of Technology,Community Colleges,1676,764,912,977,239,738,231,189,42,468,336,132
+2011,Finger Lakes Community College,Community Colleges,622,320,302,402,120,282,76,73,3,144,127,17
+2011,Fulton-Montgomery Community College,Community Colleges,331,163,168,193,59,134,69,47,22,69,57,12
+2011,Genesee Community College,Community Colleges,715,307,408,375,83,292,186,129,57,154,95,59
+2011,Herkimer County Community College,Community Colleges,370,226,144,169,73,96,95,74,21,106,79,27
+2011,Hudson Valley Community College,Community Colleges,1163,635,528,707,267,440,183,141,42,273,227,46
+2011,Jamestown Community College,Community Colleges,588,228,360,378,84,294,75,60,15,135,84,51
+2011,Jefferson Community College,Community Colleges,430,222,208,228,83,145,83,60,23,119,79,40
+2011,Mohawk Valley Community College,Community Colleges,890,433,457,421,144,277,297,142,155,172,147,25
+2011,Monroe Community College,Community Colleges,1803,931,872,954,329,625,341,261,80,508,341,167
+2011,Nassau Community College,Community Colleges,2503,1160,1343,1463,556,907,397,204,193,643,400,243
+2011,Niagara County Community College,Community Colleges,696,297,399,417,107,310,91,57,34,188,133,55
+2011,North Country Community College,Community Colleges,179,91,88,111,37,74,31,31,0,37,23,14
+2011,N.Y. State College of Ceramics,Doctoral Institutions,156,135,21,57,48,9,22,22,0,77,65,12
+2011,Onondaga Community College,Community Colleges,1093,571,522,660,175,485,196,177,19,237,219,18
+2011,Orange County Community College,Community Colleges,1260,439,821,544,160,384,391,133,258,325,146,179
+2011,Rockland Community College,Community Colleges,1042,407,635,694,118,576,111,111,0,237,178,59
+2011,Schenectady County Community College,Community Colleges,485,198,287,251,59,192,166,82,84,68,57,11
+2011,State College of Optometry,Doctoral Institutions,364,255,109,142,56,86,131,109,22,91,90,1
+2011,S.U. College at Brockport,Comprehensive Colleges,1364,945,419,618,350,268,428,303,125,318,292,26
+2011,S.U. College at Buffalo,Comprehensive Colleges,1765,1163,602,811,403,408,527,409,118,427,351,76
+2011,S.U. College at Cortland,Comprehensive Colleges,1339,880,459,571,285,286,381,262,119,387,333,54
+2011,S.U. College at Fredonia,Comprehensive Colleges,1006,659,347,485,255,230,227,176,51,294,228,66
+2011,S.U. College at Geneseo,Comprehensive Colleges,896,688,208,351,240,111,285,201,84,260,247,13
+2011,S.U. College at New Paltz,Comprehensive Colleges,1359,914,445,615,313,302,391,268,123,353,333,20
+2011,S.U. College at Old Westbury,Comprehensive Colleges,628,420,208,308,136,172,175,150,25,145,134,11
+2011,S.U. College at Oneonta,Comprehensive Colleges,1128,817,311,471,250,221,338,263,75,319,304,15
+2011,S.U. College at Oswego,Comprehensive Colleges,1385,1001,384,562,313,249,351,253,98,472,435,37
+2011,S.U. College at Plattsburgh,Comprehensive Colleges,1060,737,323,479,272,207,278,200,78,303,265,38
+2011,S.U. College at Potsdam,Comprehensive Colleges,868,677,191,359,244,115,240,199,41,269,234,35
+2011,S.U. College at Purchase,Comprehensive Colleges,963,581,382,391,169,222,317,249,68,255,163,92
+2011,Suffolk County Community College,Community Colleges,2902,1037,1865,1660,313,1347,432,361,71,810,363,447
+2011,Sullivan County Community College,Community Colleges,222,151,71,113,50,63,68,64,4,41,37,4
+2011,SUNY at Albany,Doctoral Institutions,3554,2059,1495,1076,591,485,1676,771,905,802,697,105
+2011,SUNY at Binghamton,Doctoral Institutions,3094,1825,1269,825,571,254,1467,666,801,802,588,214
+2011,SUNY at Buffalo,Doctoral Institutions,6294,4120,2174,2230,1537,693,2888,1516,1372,1176,1067,109
+2011,SUNY at Stony Brook,Doctoral Institutions,11654,8715,2939,2273,1563,710,6320,4552,1768,3061,2600,461
+2011,SUNY Coll/Env Sci & Forestry,Doctoral Institutions,591,352,239,158,121,37,299,120,179,134,111,23
+2011,SUNY Empire State College,Comprehensive Colleges,1761,717,1044,1176,204,972,336,292,44,249,221,28
+2011,SUNY Inst of Tech at Utica/Rome,Technology Colleges,417,255,162,184,77,107,139,89,50,94,89,5
+2011,SUNY Maritime College,Technology Colleges,349,265,84,139,97,42,128,100,28,82,68,14
+2011,System Administration,SUNY System,498,421,77,3,0,3,344,321,23,151,100,51
+2011,Tompkins-Cortland Community College,Community Colleges,536,251,285,347,68,279,81,80,1,108,103,5
+2011,Ulster County Community College,Community Colleges,405,188,217,206,65,141,102,64,38,97,59,38
+2011,Upstate Medical Center,Doctoral Institutions,6552,5130,1422,615,377,238,3918,3099,819,2019,1654,365
+2011,Westchester Community College,Community Colleges,1383,523,860,1048,209,839,142,137,5,193,177,16
